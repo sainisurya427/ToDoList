@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "customer": "Branson Weimans",
+      "last": "06/06/2020",
+      "orders": 2,
+      "totalSpent": "295.31 BUS",
+      "latestPurchase": "27/11/2010 13:12:25",
+      "segment": "Regular"
+    },
+    {
+      "id": 2,
+      "customer": "Rugar Arra Buen",
+      "last": "09/08/2020",
+      "orders": 3,
+      "totalSpent": "1647.81 SUS",
+      "latestPurchase": "07/06/2020 07:48:18",
+      "segment": "X"
+    },
+    {
+      "id": 3,
+      "customer": "Gudrun Tromp",
+      "last": "08/05/2020",
+      "orders": 0,
+      "totalSpent": "0.00 SUS",
+      "latestPurchase": "",
+      "segment": "Regular"
+    }
+  ]
+  
